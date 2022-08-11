@@ -8,13 +8,6 @@ body * {
   box-sizing: border-box;
 }
 
-@media only screen and (max-width: 1300px) {
-  .body {
-    width: 1300px;
-    margin: 0 auto;
-  }
-}
-
 .container {
   width: 1440px;
   margin: 0 auto;
